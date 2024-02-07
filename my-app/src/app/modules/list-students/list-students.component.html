@@ -1,0 +1,32 @@
+<input type="text" #even (change)="changeFind(even.value)"/>
+<input type="checkbox" #chb (change)="showStudentByDone(chb.checked)"/>show active students<br/>
+<ul class="list-group">
+    <li *ngFor=" let i of students" class="list-group-item" [ngClass]="{'list-group-item-danger': i.active,'list-group-item-success':i.avgMarks>90}">
+        <div class="row">
+            <div class="col-6">id: {{i.id}}, last name: {{i.name}}, famalyName: {{i.famalyName}}
+            </div>
+           
+            <div class="col-2">
+                <button  class="btn btn-secondary" (click)="deleteStudent(i)">delete Student</button>
+            </div>
+            <div class="col-2">
+                <button  class="btn btn-secondary" (click)="showDetails2(i)">show Details</button>
+            </div>
+            <div class="col-2">
+                <button class="btn btn-secondary" (click)="showDetails(i)">updete details</button>
+            </div>
+        </div>  
+    </li>
+</ul>
+<br>
+<div *ngIf="student">
+    ----------------------------------------
+    <br/>
+    address:
+{{student.adress}}, phone: {{student.pon}}
+    avg marks: {{student.avgMarks}}
+    <br/>
+-------------------------------------</div>
+<button class="btn btn-secondary" (click)="show()">add new student</button>
+<app-student-from-md [student]="selectStudent" [total_absence_days]="absence_days" (saveNewStudent)="addStudent($event) "></app-student-from-md>
+

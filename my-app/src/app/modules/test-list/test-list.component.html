@@ -1,0 +1,14 @@
+<div *ngIf="Tests">
+    <div class="row">
+        <div style="background-color: crimson; width: fit-content;"> the avg mark:{{getAvg()}}</div>
+        <ul class="row">
+            the History tests:
+            <li  *ngFor="let t of Tests">
+                code test:{{t.code}},date:{{t.date}},description:{{t.description}},Mark: {{t.mark}}
+
+            </li>
+        </ul>
+
+    </div>
+
+</div>
