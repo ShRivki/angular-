@@ -4,6 +4,7 @@ import { NgFor } from '@angular/common';
 import { Test } from '../../models/test.model';
 import { StudentService } from '../student.service';
 import { DaysOfAbsence } from '../../models/DaysOfAbsence.model';
+import { Subject, debounceTime, distinctUntilChanged, map, switchMap } from "rxjs";
 @Component({
   selector: 'app-list-students',
   templateUrl: './list-students.component.html',
@@ -19,6 +20,7 @@ export class ListStudentsComponent {
     _studentService.getStudentsFromServer().subscribe(data => {
       this.students = data;
     })
+
   }
   selectStudent: Student | undefined;
   deleteStudent(student: Student) {
@@ -70,8 +72,6 @@ export class ListStudentsComponent {
       });
 
     }
-
-
   }
   getid(): number {
     var max = 0
@@ -92,14 +92,27 @@ export class ListStudentsComponent {
       this.students = data;
     })
   }
-  v: string;
-  changeFind(v: string) {
+  studentName: string = '';
+  private searchTerms = new Subject<string>();
 
-    if (this.v != v) {
-      this._studentService.getStudentFromSrverByNme(v).subscribe(data => {
-        this.students = data;
-      })
-    }
+  // g(): void {
+  //   while (true) {
+      
+    
+  //     this.searchTerms.pipe(
+  //         debounceTime(1000),
+  //         distinctUntilChanged(),
+  //         switchMap(() => this._studentService.getStudentFromSrverByNme(this.studentName)),
+  //     ).subscribe(data => this.students = data);
+  //   }
+  // }
+  getStudentByName(): void {
+      this.searchTerms.next(this.studentName);
+      this.searchTerms.pipe(
+        debounceTime(1000),
+        distinctUntilChanged(),
+        switchMap(() => this._studentService.getStudentFromSrverByNme(this.studentName)),
+    ).subscribe(data => this.students = data);
   }
   showStudentByDone(done: boolean) {
     this._studentService.getStudentFromSrverByActive(done).subscribe(data => {

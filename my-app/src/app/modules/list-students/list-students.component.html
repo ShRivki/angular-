@@ -1,4 +1,4 @@
-<input type="text" #even (change)="changeFind(even.value)"/>
+<input type="text" placeholder="enter name of student" [(ngModel)]="studentName" (input)="getStudentByName()" />
 <input type="checkbox" #chb (change)="showStudentByDone(chb.checked)"/>show active students<br/>
 <ul class="list-group">
     <li *ngFor=" let i of students" class="list-group-item" [ngClass]="{'list-group-item-danger': i.active,'list-group-item-success':i.avgMarks>90}">

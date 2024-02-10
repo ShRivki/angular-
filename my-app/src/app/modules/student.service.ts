@@ -59,8 +59,10 @@ export class StudentService{
     return this._http.get<Student[]>("/api/Students/active="+active)
    }
    getStudentFromSrverByNme(name:string):Observable<Student[]>{
-    return this._http.get<Student[]>("/api/Students/name="+name)
-   }
+        if (name == '')
+            return this.getStudentsFromServer()
+        return this._http.get<Student[]>("api/Students/name=" + name)
+    }
    upDateStudentToServer(id:number,student:Student):Observable<boolean>{
     alert("weef");
     return this._http.put<boolean>(`/api/Students/${id}`,{...student ,id:0});

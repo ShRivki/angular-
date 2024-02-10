@@ -1,0 +1,155 @@
+C:\Users\ASUS\Desktop\api angular1\api angular1\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ASUS\Desktop\api angular1\api angular1\bin\Debug\net6.0\appsettings.json
+C:\Users\ASUS\Desktop\api angular1\api angular1\bin\Debug\net6.0\api angular1.exe
+C:\Users\ASUS\Desktop\api angular1\api angular1\bin\Debug\net6.0\api angular1.deps.json
+C:\Users\ASUS\Desktop\api angular1\api angular1\bin\Debug\net6.0\api angular1.runtimeconfig.json
+C:\Users\ASUS\Desktop\api angular1\api angular1\bin\Debug\net6.0\api angular1.dll
+C:\Users\ASUS\Desktop\api angular1\api angular1\bin\Debug\net6.0\api angular1.pdb
+C:\Users\ASUS\Desktop\api angular1\api angular1\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\ASUS\Desktop\api angular1\api angular1\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ASUS\Desktop\api angular1\api angular1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ASUS\Desktop\api angular1\api angular1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ASUS\Desktop\api angular1\api angular1\obj\Debug\net6.0\api angular1.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\api angular1\api angular1\obj\Debug\net6.0\api angular1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\api angular1\api angular1\obj\Debug\net6.0\api angular1.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\api angular1\api angular1\obj\Debug\net6.0\api angular1.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\api angular1\api angular1\obj\Debug\net6.0\api angular1.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\api angular1\api angular1\obj\Debug\net6.0\api angular1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ASUS\Desktop\api angular1\api angular1\obj\Debug\net6.0\api angular1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ASUS\Desktop\api angular1\api angular1\obj\Debug\net6.0\staticwebassets\msbuild.api angular1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ASUS\Desktop\api angular1\api angular1\obj\Debug\net6.0\staticwebassets\msbuild.build.api angular1.props
+C:\Users\ASUS\Desktop\api angular1\api angular1\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.api angular1.props
+C:\Users\ASUS\Desktop\api angular1\api angular1\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.api angular1.props
+C:\Users\ASUS\Desktop\api angular1\api angular1\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\ASUS\Desktop\api angular1\api angular1\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ASUS\Desktop\api angular1\api angular1\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ASUS\Desktop\api angular1\api angular1\obj\Debug\net6.0\scopedcss\bundle\api angular1.styles.css
+C:\Users\ASUS\Desktop\api angular1\api angular1\obj\Debug\net6.0\api angular1.csproj.CopyComplete
+C:\Users\ASUS\Desktop\api angular1\api angular1\obj\Debug\net6.0\api angular1.dll
+C:\Users\ASUS\Desktop\api angular1\api angular1\obj\Debug\net6.0\refint\api angular1.dll
+C:\Users\ASUS\Desktop\api angular1\api angular1\obj\Debug\net6.0\api angular1.pdb
+C:\Users\ASUS\Desktop\api angular1\api angular1\obj\Debug\net6.0\api angular1.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\api angular1\api angular1\obj\Debug\net6.0\ref\api angular1.dll
+Y:\Groups\Group_1\שרייבר  רבקה\אנגולר\angular-main\angular-main\13.09.23\api angular1\api angular1\bin\Debug\net6.0\appsettings.Development.json
+Y:\Groups\Group_1\שרייבר  רבקה\אנגולר\angular-main\angular-main\13.09.23\api angular1\api angular1\bin\Debug\net6.0\appsettings.json
+Y:\Groups\Group_1\שרייבר  רבקה\אנגולר\angular-main\angular-main\13.09.23\api angular1\api angular1\bin\Debug\net6.0\api angular1.exe
+Y:\Groups\Group_1\שרייבר  רבקה\אנגולר\angular-main\angular-main\13.09.23\api angular1\api angular1\bin\Debug\net6.0\api angular1.deps.json
+Y:\Groups\Group_1\שרייבר  רבקה\אנגולר\angular-main\angular-main\13.09.23\api angular1\api angular1\bin\Debug\net6.0\api angular1.runtimeconfig.json
+Y:\Groups\Group_1\שרייבר  רבקה\אנגולר\angular-main\angular-main\13.09.23\api angular1\api angular1\bin\Debug\net6.0\api angular1.dll
+Y:\Groups\Group_1\שרייבר  רבקה\אנגולר\angular-main\angular-main\13.09.23\api angular1\api angular1\bin\Debug\net6.0\api angular1.pdb
+Y:\Groups\Group_1\שרייבר  רבקה\אנגולר\angular-main\angular-main\13.09.23\api angular1\api angular1\bin\Debug\net6.0\Microsoft.OpenApi.dll
+Y:\Groups\Group_1\שרייבר  רבקה\אנגולר\angular-main\angular-main\13.09.23\api angular1\api angular1\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+Y:\Groups\Group_1\שרייבר  רבקה\אנגולר\angular-main\angular-main\13.09.23\api angular1\api angular1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+Y:\Groups\Group_1\שרייבר  רבקה\אנגולר\angular-main\angular-main\13.09.23\api angular1\api angular1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+Y:\Groups\Group_1\שרייבר  רבקה\אנגולר\angular-main\angular-main\13.09.23\api angular1\api angular1\obj\Debug\net6.0\api angular1.csproj.AssemblyReference.cache
+Y:\Groups\Group_1\שרייבר  רבקה\אנגולר\angular-main\angular-main\13.09.23\api angular1\api angular1\obj\Debug\net6.0\api angular1.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\Group_1\שרייבר  רבקה\אנגולר\angular-main\angular-main\13.09.23\api angular1\api angular1\obj\Debug\net6.0\api angular1.AssemblyInfoInputs.cache
+Y:\Groups\Group_1\שרייבר  רבקה\אנגולר\angular-main\angular-main\13.09.23\api angular1\api angular1\obj\Debug\net6.0\api angular1.AssemblyInfo.cs
+Y:\Groups\Group_1\שרייבר  רבקה\אנגולר\angular-main\angular-main\13.09.23\api angular1\api angular1\obj\Debug\net6.0\api angular1.csproj.CoreCompileInputs.cache
+Y:\Groups\Group_1\שרייבר  רבקה\אנגולר\angular-main\angular-main\13.09.23\api angular1\api angular1\obj\Debug\net6.0\api angular1.MvcApplicationPartsAssemblyInfo.cs
+Y:\Groups\Group_1\שרייבר  רבקה\אנגולר\angular-main\angular-main\13.09.23\api angular1\api angular1\obj\Debug\net6.0\api angular1.MvcApplicationPartsAssemblyInfo.cache
+Y:\Groups\Group_1\שרייבר  רבקה\אנגולר\angular-main\angular-main\13.09.23\api angular1\api angular1\obj\Debug\net6.0\staticwebassets.build.json
+Y:\Groups\Group_1\שרייבר  רבקה\אנגולר\angular-main\angular-main\13.09.23\api angular1\api angular1\obj\Debug\net6.0\staticwebassets.development.json
+Y:\Groups\Group_1\שרייבר  רבקה\אנגולר\angular-main\angular-main\13.09.23\api angular1\api angular1\obj\Debug\net6.0\scopedcss\bundle\api angular1.styles.css
+Y:\Groups\Group_1\שרייבר  רבקה\אנגולר\angular-main\angular-main\13.09.23\api angular1\api angular1\obj\Debug\net6.0\api angular1.csproj.CopyComplete
+Y:\Groups\Group_1\שרייבר  רבקה\אנגולר\angular-main\angular-main\13.09.23\api angular1\api angular1\obj\Debug\net6.0\api angular1.dll
+Y:\Groups\Group_1\שרייבר  רבקה\אנגולר\angular-main\angular-main\13.09.23\api angular1\api angular1\obj\Debug\net6.0\refint\api angular1.dll
+Y:\Groups\Group_1\שרייבר  רבקה\אנגולר\angular-main\angular-main\13.09.23\api angular1\api angular1\obj\Debug\net6.0\api angular1.pdb
+Y:\Groups\Group_1\שרייבר  רבקה\אנגולר\angular-main\angular-main\13.09.23\api angular1\api angular1\obj\Debug\net6.0\api angular1.genruntimeconfig.cache
+Y:\Groups\Group_1\שרייבר  רבקה\אנגולר\angular-main\angular-main\13.09.23\api angular1\api angular1\obj\Debug\net6.0\ref\api angular1.dll
+C:\Users\ASUS\Desktop\‏‏תיקיה חדשה\api angular1\api angular1\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ASUS\Desktop\‏‏תיקיה חדשה\api angular1\api angular1\bin\Debug\net6.0\appsettings.json
+C:\Users\ASUS\Desktop\‏‏תיקיה חדשה\api angular1\api angular1\bin\Debug\net6.0\api angular1.exe
+C:\Users\ASUS\Desktop\‏‏תיקיה חדשה\api angular1\api angular1\bin\Debug\net6.0\api angular1.deps.json
+C:\Users\ASUS\Desktop\‏‏תיקיה חדשה\api angular1\api angular1\bin\Debug\net6.0\api angular1.runtimeconfig.json
+C:\Users\ASUS\Desktop\‏‏תיקיה חדשה\api angular1\api angular1\bin\Debug\net6.0\api angular1.dll
+C:\Users\ASUS\Desktop\‏‏תיקיה חדשה\api angular1\api angular1\bin\Debug\net6.0\api angular1.pdb
+C:\Users\ASUS\Desktop\‏‏תיקיה חדשה\api angular1\api angular1\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\ASUS\Desktop\‏‏תיקיה חדשה\api angular1\api angular1\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ASUS\Desktop\‏‏תיקיה חדשה\api angular1\api angular1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ASUS\Desktop\‏‏תיקיה חדשה\api angular1\api angular1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ASUS\Desktop\‏‏תיקיה חדשה\api angular1\api angular1\obj\Debug\net6.0\api angular1.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\‏‏תיקיה חדשה\api angular1\api angular1\obj\Debug\net6.0\api angular1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\‏‏תיקיה חדשה\api angular1\api angular1\obj\Debug\net6.0\api angular1.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\‏‏תיקיה חדשה\api angular1\api angular1\obj\Debug\net6.0\api angular1.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\‏‏תיקיה חדשה\api angular1\api angular1\obj\Debug\net6.0\api angular1.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\‏‏תיקיה חדשה\api angular1\api angular1\obj\Debug\net6.0\api angular1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ASUS\Desktop\‏‏תיקיה חדשה\api angular1\api angular1\obj\Debug\net6.0\api angular1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ASUS\Desktop\‏‏תיקיה חדשה\api angular1\api angular1\obj\Debug\net6.0\staticwebassets\msbuild.api angular1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ASUS\Desktop\‏‏תיקיה חדשה\api angular1\api angular1\obj\Debug\net6.0\staticwebassets\msbuild.build.api angular1.props
+C:\Users\ASUS\Desktop\‏‏תיקיה חדשה\api angular1\api angular1\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.api angular1.props
+C:\Users\ASUS\Desktop\‏‏תיקיה חדשה\api angular1\api angular1\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.api angular1.props
+C:\Users\ASUS\Desktop\‏‏תיקיה חדשה\api angular1\api angular1\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\ASUS\Desktop\‏‏תיקיה חדשה\api angular1\api angular1\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ASUS\Desktop\‏‏תיקיה חדשה\api angular1\api angular1\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ASUS\Desktop\‏‏תיקיה חדשה\api angular1\api angular1\obj\Debug\net6.0\scopedcss\bundle\api angular1.styles.css
+C:\Users\ASUS\Desktop\‏‏תיקיה חדשה\api angular1\api angular1\obj\Debug\net6.0\api angular1.csproj.CopyComplete
+C:\Users\ASUS\Desktop\‏‏תיקיה חדשה\api angular1\api angular1\obj\Debug\net6.0\api angular1.dll
+C:\Users\ASUS\Desktop\‏‏תיקיה חדשה\api angular1\api angular1\obj\Debug\net6.0\refint\api angular1.dll
+C:\Users\ASUS\Desktop\‏‏תיקיה חדשה\api angular1\api angular1\obj\Debug\net6.0\api angular1.pdb
+C:\Users\ASUS\Desktop\‏‏תיקיה חדשה\api angular1\api angular1\obj\Debug\net6.0\api angular1.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\‏‏תיקיה חדשה\api angular1\api angular1\obj\Debug\net6.0\ref\api angular1.dll
+C:\Users\ASUS\Desktop\אנגולר\api angular1\api angular1\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ASUS\Desktop\אנגולר\api angular1\api angular1\bin\Debug\net6.0\appsettings.json
+C:\Users\ASUS\Desktop\אנגולר\api angular1\api angular1\bin\Debug\net6.0\api angular1.exe
+C:\Users\ASUS\Desktop\אנגולר\api angular1\api angular1\bin\Debug\net6.0\api angular1.deps.json
+C:\Users\ASUS\Desktop\אנגולר\api angular1\api angular1\bin\Debug\net6.0\api angular1.runtimeconfig.json
+C:\Users\ASUS\Desktop\אנגולר\api angular1\api angular1\bin\Debug\net6.0\api angular1.dll
+C:\Users\ASUS\Desktop\אנגולר\api angular1\api angular1\bin\Debug\net6.0\api angular1.pdb
+C:\Users\ASUS\Desktop\אנגולר\api angular1\api angular1\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\ASUS\Desktop\אנגולר\api angular1\api angular1\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ASUS\Desktop\אנגולר\api angular1\api angular1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ASUS\Desktop\אנגולר\api angular1\api angular1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ASUS\Desktop\אנגולר\api angular1\api angular1\obj\Debug\net6.0\api angular1.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\אנגולר\api angular1\api angular1\obj\Debug\net6.0\api angular1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\אנגולר\api angular1\api angular1\obj\Debug\net6.0\api angular1.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\אנגולר\api angular1\api angular1\obj\Debug\net6.0\api angular1.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\אנגולר\api angular1\api angular1\obj\Debug\net6.0\api angular1.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\אנגולר\api angular1\api angular1\obj\Debug\net6.0\api angular1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ASUS\Desktop\אנגולר\api angular1\api angular1\obj\Debug\net6.0\api angular1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ASUS\Desktop\אנגולר\api angular1\api angular1\obj\Debug\net6.0\staticwebassets\msbuild.api angular1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ASUS\Desktop\אנגולר\api angular1\api angular1\obj\Debug\net6.0\staticwebassets\msbuild.build.api angular1.props
+C:\Users\ASUS\Desktop\אנגולר\api angular1\api angular1\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.api angular1.props
+C:\Users\ASUS\Desktop\אנגולר\api angular1\api angular1\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.api angular1.props
+C:\Users\ASUS\Desktop\אנגולר\api angular1\api angular1\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\ASUS\Desktop\אנגולר\api angular1\api angular1\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ASUS\Desktop\אנגולר\api angular1\api angular1\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ASUS\Desktop\אנגולר\api angular1\api angular1\obj\Debug\net6.0\scopedcss\bundle\api angular1.styles.css
+C:\Users\ASUS\Desktop\אנגולר\api angular1\api angular1\obj\Debug\net6.0\api angular1.csproj.CopyComplete
+C:\Users\ASUS\Desktop\אנגולר\api angular1\api angular1\obj\Debug\net6.0\api angular1.dll
+C:\Users\ASUS\Desktop\אנגולר\api angular1\api angular1\obj\Debug\net6.0\refint\api angular1.dll
+C:\Users\ASUS\Desktop\אנגולר\api angular1\api angular1\obj\Debug\net6.0\api angular1.pdb
+C:\Users\ASUS\Desktop\אנגולר\api angular1\api angular1\obj\Debug\net6.0\api angular1.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\אנגולר\api angular1\api angular1\obj\Debug\net6.0\ref\api angular1.dll
+C:\Users\ASUS\Desktop\אנגולר\server\api angular1\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ASUS\Desktop\אנגולר\server\api angular1\bin\Debug\net6.0\appsettings.json
+C:\Users\ASUS\Desktop\אנגולר\server\api angular1\bin\Debug\net6.0\api angular1.exe
+C:\Users\ASUS\Desktop\אנגולר\server\api angular1\bin\Debug\net6.0\api angular1.deps.json
+C:\Users\ASUS\Desktop\אנגולר\server\api angular1\bin\Debug\net6.0\api angular1.runtimeconfig.json
+C:\Users\ASUS\Desktop\אנגולר\server\api angular1\bin\Debug\net6.0\api angular1.dll
+C:\Users\ASUS\Desktop\אנגולר\server\api angular1\bin\Debug\net6.0\api angular1.pdb
+C:\Users\ASUS\Desktop\אנגולר\server\api angular1\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\ASUS\Desktop\אנגולר\server\api angular1\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ASUS\Desktop\אנגולר\server\api angular1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ASUS\Desktop\אנגולר\server\api angular1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ASUS\Desktop\אנגולר\server\api angular1\obj\Debug\net6.0\api angular1.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\אנגולר\server\api angular1\obj\Debug\net6.0\api angular1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\אנגולר\server\api angular1\obj\Debug\net6.0\api angular1.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\אנגולר\server\api angular1\obj\Debug\net6.0\api angular1.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\אנגולר\server\api angular1\obj\Debug\net6.0\api angular1.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\אנגולר\server\api angular1\obj\Debug\net6.0\api angular1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ASUS\Desktop\אנגולר\server\api angular1\obj\Debug\net6.0\api angular1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ASUS\Desktop\אנגולר\server\api angular1\obj\Debug\net6.0\staticwebassets\msbuild.api angular1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ASUS\Desktop\אנגולר\server\api angular1\obj\Debug\net6.0\staticwebassets\msbuild.build.api angular1.props
+C:\Users\ASUS\Desktop\אנגולר\server\api angular1\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.api angular1.props
+C:\Users\ASUS\Desktop\אנגולר\server\api angular1\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.api angular1.props
+C:\Users\ASUS\Desktop\אנגולר\server\api angular1\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\ASUS\Desktop\אנגולר\server\api angular1\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ASUS\Desktop\אנגולר\server\api angular1\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ASUS\Desktop\אנגולר\server\api angular1\obj\Debug\net6.0\scopedcss\bundle\api angular1.styles.css
+C:\Users\ASUS\Desktop\אנגולר\server\api angular1\obj\Debug\net6.0\api angular1.csproj.CopyComplete
+C:\Users\ASUS\Desktop\אנגולר\server\api angular1\obj\Debug\net6.0\api angular1.dll
+C:\Users\ASUS\Desktop\אנגולר\server\api angular1\obj\Debug\net6.0\refint\api angular1.dll
+C:\Users\ASUS\Desktop\אנגולר\server\api angular1\obj\Debug\net6.0\api angular1.pdb
+C:\Users\ASUS\Desktop\אנגולר\server\api angular1\obj\Debug\net6.0\api angular1.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\אנגולר\server\api angular1\obj\Debug\net6.0\ref\api angular1.dll
