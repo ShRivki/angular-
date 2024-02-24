@@ -1,6 +1,6 @@
 import { Injectable, makeEnvironmentProviders } from "@angular/core";
 import { Student, Year } from "./student.model";
-import{DaysOfAbsence}from"../models/DaysOfAbsence.model";
+import{DaysOfAbsence}from"../../models/DaysOfAbsence.model";
 import { HttpClient } from "@angular/common/http";
 import { Observable } from "rxjs";
 const STUDENTS=[
@@ -47,7 +47,7 @@ export class StudentService{
     
         var sum:number=0;
         var s=STUDENTS.find(x=>x.id==id);
-        s.daysAbsence.forEach(d=>{
+        s?.daysAbsence?.forEach(d=>{
         sum+=d.days;
         })
         return sum;

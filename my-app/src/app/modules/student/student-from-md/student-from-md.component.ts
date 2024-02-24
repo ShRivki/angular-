@@ -1,9 +1,10 @@
 import { Component, EventEmitter, Input, Output } from '@angular/core';
 import { Student, Year } from '../student.model';
 import { FormControl, FormGroup, Validators } from '@angular/forms';
-import { ROUTES } from '../../models/route.model';
-import { DaysOfAbsence } from '../../models/DaysOfAbsence.model';
+import { ROUTES } from '../../../models/route.model';
+import { DaysOfAbsence } from '../../../models/DaysOfAbsence.model';
 import { StudentService } from '../student.service';
+import { ActivatedRoute } from '@angular/router';
 
 
 @Component({
@@ -17,11 +18,24 @@ Rotes=ROUTES;
 year = Year;
 private _student: Student|undefined;
 public get student() : Student {
-  return this._student; 
-  
+  return this._student;  
 } 
 @Input()
 avg:number;
+constructor(private _studentService:StudentService,private _act:ActivatedRoute){}
+ngOnInit(): void {
+  this._act.paramMap.subscribe(p=>{
+  
+  if(p.has("id")){
+    this._studentService.getStudentsFromServer().subscribe(data => {
+    this.student = data.filter(x=>x.id==+p.get("id"))[0];
+    
+  })}
+  else
+  this.student=new Student()
+
+})  
+}
 @Input()
 public set student (v : Student) {
   this._student = v;
@@ -73,6 +87,6 @@ studentForm: FormGroup= new FormGroup({});;
     
       
   }
-  constructor(private _studentService:StudentService){}
+
 
 }

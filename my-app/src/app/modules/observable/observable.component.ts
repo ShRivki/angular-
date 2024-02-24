@@ -1,8 +1,8 @@
 import { DatePipe, NgFor, Time } from '@angular/common';
 import { Component, Input } from '@angular/core';
 import { Observable, filter, from, interval, map } from 'rxjs';
-import { StudentService } from '../student.service';
-import { Student } from '../student.model';
+import { StudentService } from '../student/student.service';
+import { Student } from '../student/student.model';
 
 @Component({
   selector: 'app-observable',

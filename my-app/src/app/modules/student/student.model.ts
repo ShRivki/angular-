@@ -1,5 +1,5 @@
-import { DaysOfAbsence } from "../models/DaysOfAbsence.model";
-import { Test } from "../models/test.model";
+import { DaysOfAbsence } from "../../models/DaysOfAbsence.model";
+import { Test } from "../../models/test.model";
 
 
 

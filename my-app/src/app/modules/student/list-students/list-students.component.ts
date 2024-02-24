@@ -1,22 +1,23 @@
 import { Component, EventEmitter, Input, Output } from '@angular/core';
 import { Student, Year } from '../student.model';
 import { NgFor } from '@angular/common';
-import { Test } from '../../models/test.model';
+import { Test } from '../../../models/test.model';
 import { StudentService } from '../student.service';
-import { DaysOfAbsence } from '../../models/DaysOfAbsence.model';
+import { DaysOfAbsence } from '../../../models/DaysOfAbsence.model';
 import { Subject, debounceTime, distinctUntilChanged, map, switchMap } from "rxjs";
+import { Route, Router } from '@angular/router';
 @Component({
   selector: 'app-list-students',
   templateUrl: './list-students.component.html',
 })
 export class ListStudentsComponent {
-  student:Student=undefined;
+
   @Input()
   absence_days: number
   @Output()
   outputStudentTest: EventEmitter<Student> = new EventEmitter();
   students: Student[];
-  constructor(private _studentService: StudentService) {
+  constructor(private _studentService: StudentService,private _router:Router) {
     _studentService.getStudentsFromServer().subscribe(data => {
       this.students = data;
     })
@@ -32,11 +33,12 @@ export class ListStudentsComponent {
     });
   }
   showDetails2(s:Student) {
-    this.student= s;
+   this._router.navigate(["studentDetails",s.id])
   }
   showDetails(s: Student) {
-    this.outputStudentTest.emit(s);
-    this.selectStudent = s;
+    //  this.outputStudentTest.emit(s);
+    //  this.selectStudent = s;
+    this._router.navigate(["studentupdate",s.id])
   }
   addStudent(student: Student) {
     let sUpdate = this.students.findIndex(x => x.id == student.id)
@@ -72,6 +74,7 @@ export class ListStudentsComponent {
       });
 
     }
+    this._router.navigate(["/home"])
   }
   getid(): number {
     var max = 0
@@ -82,9 +85,10 @@ export class ListStudentsComponent {
     return max;
   }
   show() {
-    this.selectStudent = new Student( //this.getid()+1, "name", "famalyname", "adress", 123456789,0,true,Year.A,1,null,[{dateAbsence:new Date(2023, 10, 13),days:0}]
-    );
+    this.selectStudent = new Student();//this.getid()+1, "name", "famalyname", "adress", 123456789,0,true,Year.A,1,null,[{dateAbsence:new Date(2023, 10, 13),days:0}]
+   
     this.outputStudentTest.emit(this.selectStudent);
+    this._router.navigate(["studentupdate"])
 
   }
   ngOnInit() {

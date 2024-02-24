@@ -19,14 +19,7 @@
     </li>
 </ul>
 <br>
-<div *ngIf="student">
-    ----------------------------------------
-    <br/>
-    address:
-{{student.adress}}, phone: {{student.pon}}
-    avg marks: {{student.avgMarks}}
-    <br/>
--------------------------------------</div>
+
 <button class="btn btn-secondary" (click)="show()">add new student</button>
-<app-student-from-md [student]="selectStudent" [total_absence_days]="absence_days" (saveNewStudent)="addStudent($event) "></app-student-from-md>
+<!-- <app-student-from-md [student]="selectStudent" [total_absence_days]="absence_days" (saveNewStudent)="addStudent($event) "></app-student-from-md> -->
 

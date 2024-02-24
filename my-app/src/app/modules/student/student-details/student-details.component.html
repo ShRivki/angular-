@@ -1,0 +1,11 @@
+<p>student-details works!</p>
+<div *ngIf="student">
+    ----------------------------------------
+    <br/>
+    address:
+{{student.adress}}, phone: {{student.pon}}
+    avg marks: {{student.avgMarks}}
+    <br/>
+    <app-test-list [Tests]="student?.tests" [id]="student?.id" ></app-test-list>
+-------------------------------------</div>
+

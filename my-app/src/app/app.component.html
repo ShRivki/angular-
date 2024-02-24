@@ -1,6 +1,22 @@
-<app-list-students [absence_days]="total" (outputStudentTest)="tachTest($event)"  ></app-list-students>
-<app-test-list [Tests]="student?.tests" [id]="student?.id" ></app-test-list>
-<app-observable></app-observable>
+<!-- <app-list-students [absence_days]="total" (outputStudentTest)="tachTest($event)"  ></app-list-students> -->
+<!-- <app-test-list [Tests]="student?.tests" [id]="student?.id" ></app-test-list> -->
+<!-- <app-observable></app-observable> -->
 
-
-
+<ul>
+    <li>
+        <a routerLink="/students">list students</a>
+    </li>
+    <li>
+        <a routerLink="/home">home</a>
+    </li>
+    <li>
+        <a routerLink="/studentDetails/{{1}}">studentDetails</a>
+    </li>
+    <li>
+        <a routerLink="/settings">settings</a>
+    </li>
+    <li>
+        <a routerLink="/login">login</a>
+    </li>
+</ul>
+<router-outlet></router-outlet>
