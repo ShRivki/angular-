@@ -22,17 +22,20 @@ public get student() : Student {
 } 
 @Input()
 avg:number;
+up:number;
 constructor(private _studentService:StudentService,private _act:ActivatedRoute){}
 ngOnInit(): void {
   this._act.paramMap.subscribe(p=>{
   
   if(p.has("id")){
     this._studentService.getStudentsFromServer().subscribe(data => {
-    this.student = data.filter(x=>x.id==+p.get("id"))[0];
-    
-  })}
-  else
-  this.student=new Student()
+    this.student = data.filter(x=>x.id==+p.get("id"))[0];})
+     this.up=1;}
+  else{
+    this.student=new Student()
+    this.up=0;
+  }
+  
 
 })  
 }
@@ -83,9 +86,17 @@ studentForm: FormGroup= new FormGroup({});;
          this.date=undefined;
          this.countdays=undefined;
       }
-      this.saveNewStudent.emit(this.student);
-    
-      
+      //this.saveNewStudent.emit(this.student);
+      if(this.up===1)
+      this._studentService.upDateStudentToServer(this.student.id,this.student).subscribe({
+      next:(res=>{
+        console.log(res);
+      })})
+      else
+      this._studentService.seveStudentToServer(this.student).subscribe({
+        next:(res=>{
+          console.log(res);
+        })})
   }
 
 

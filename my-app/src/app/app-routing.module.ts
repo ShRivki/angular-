@@ -9,6 +9,7 @@ import { StudentDetailsComponent } from './modules/student/student-details/stude
 import { StudentFromMdComponent } from './modules/student/student-from-md/student-from-md.component';
 import { AutoGuardService } from './modules/settings/auto-guard.service';
 import { LoginComponent } from './modules/login/login.component';
+import { DiractionDirective } from './directive/direction.directive';
 var useid
 const APP_ROUTES: Route[]=[
   { path:"students",component:ListStudentsComponent},
@@ -17,6 +18,7 @@ const APP_ROUTES: Route[]=[
   { path:"login",component:LoginComponent},  
   { path:"studentupdate/:id",component:StudentFromMdComponent},
   { path:"studentupdate",component:StudentFromMdComponent},
+  {path:"direction",component:DiractionDirective},
   {path:"settings",canActivate:[AutoGuardService], loadChildren:()=>import("./modules/settings/settings.module").then(m=>m.SettingsModule)},
   {path:"",redirectTo:"home", pathMatch:"full"} ,
   {path:"**",component:PageNotFoundComponent}//בסוף

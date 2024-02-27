@@ -16,12 +16,14 @@ import { PageNotFoundComponent } from './page-not-found/page-not-found.component
 import { StudentModule } from './modules/student/student.module';
 import { StudentDetailsComponent } from './modules/student/student-details/student-details.component';
 import { LoginService } from './modules/login/login.service';
+import { DiractionDirective } from './directive/direction.directive';
+import { DirectiveComponent } from './directive/directive.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     PageNotFoundComponent,
-    StudentDetailsComponent,
+    StudentDetailsComponent,DiractionDirective, DirectiveComponent,
   ],
   imports: [
     BrowserModule,FormsModule,StudentModule,AppRoutingModule],
